@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "babel": "^5.6.23",
     "babel-jscs": "^2.0.0",
     "jscs": "jscs-dev/node-jscs"
   }
