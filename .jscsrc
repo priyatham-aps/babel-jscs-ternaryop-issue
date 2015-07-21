@@ -1,0 +1,6 @@
+{
+	"excludeFiles": [ "node_modules/**" ],
+	"esprima": "babel-jscs",
+	"esnext": true,
+	"disallowMultipleSpaces": true
+}
